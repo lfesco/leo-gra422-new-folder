@@ -1,0 +1,517 @@
+.container{
+    display:flex;
+    background-color: #F5F5F5;
+    width:100%;
+    height:100%;
+}
+
+.rectangle-1{
+    display: flex;
+    height: 71.428571vh;
+    width: 71.428571vw;
+    background-color: white;
+    margin: auto;
+    border: 0.25px solid black;
+}
+
+.rectangle-2{
+    display: flex;
+    height: 42.857143vh;
+    width: 42.857143vw;
+    background-color: black;
+    margin: auto;
+}
+
+.rectangle-3{
+    display: flex;
+    height: 14.285714vh;
+    width: 14.285714vw;
+    background-color: white;
+    margin: auto;
+}
+
+.rectangle-4{
+    display: flex;
+    height: 71.428571vh;
+    width: 71.428571vw;
+    background-color: white;
+    margin: auto;
+    border: 0.25px solid black;
+}
+
+.rectangle-5{
+    display: flex;
+    height: 42.857143vh;
+    width: 42.857143vw;
+    background-color: white;
+    margin: auto;
+    border: 0.25px solid black;
+}
+
+.rectangle-6{
+    display: flex;
+    height: 14.285714vh;
+    width: 14.285714vw;
+    background-color: black;
+    margin: auto;
+}
+
+.line-interaction-container{
+    display:flex;
+    background-color: #F5F5F5;
+    width:100%;
+    height:100%; 
+}
+
+.line-interaction-board{
+    display: flex;
+    height: 71.428571vh;
+    width: 71.428571vw;
+    background-color: white;
+    margin: auto;
+}
+
+.addition-1-board{
+    display: flex;
+    height: 42.857143vh;
+    width: 42.857143vw;
+    background-color: white;
+    margin: auto;
+
+}
+
+.addition-black-1{
+    float: left;
+    height: 42.857143vh;
+    width: 6.439393vw;
+    background-color: black;
+    margin:auto
+    
+
+}
+
+.addition-white-1{
+    float: left;
+    height: 42.857143vh;
+    width: 2.060606vw;
+    background-color: white;
+    margin:auto
+}
+
+.addition-black-2{
+    float: left;
+    height: 42.857143vh;
+    width: 6.439393vw;
+    background-color: black;
+    margin:auto
+    
+
+}
+
+.addition-white-2{
+    float: left;
+    height: 42.857143vh;
+    width: 2.060606vw;
+    background-color: white;
+    margin:auto
+}
+
+.addition-black-3{
+    float: left;
+    height: 42.857143vh;
+    width: 6.439393vw;
+    background-color: black;
+    margin:auto
+    
+
+}
+
+.addition-white-3{
+    float: left;
+    height: 42.857143vh;
+    width: 2.060606vw;
+    background-color: white;
+    margin:auto
+}
+
+.addition-black-4{
+    float: left;
+    height: 42.857143vh;
+    width: 6.439393vw;
+    background-color: black;
+    margin:auto
+    
+
+}
+
+.addition-white-4{
+    float: left;
+    height: 42.857143vh;
+    width: 2.060606vw;
+    background-color: white;
+    margin:auto
+}
+
+.addition-black-5{
+    float: left;
+    height: 42.857143vh;
+    width: 6.439393vw;
+    background-color: black;
+    margin:auto
+    
+
+}
+
+.addition-white-5{
+    float: left;
+    height: 42.857143vh;
+    width: 2.060606vw;
+    background-color: white;
+    margin:auto
+}
+
+.addition-black-6{
+    float: left;
+    height: 42.857143vh;
+    width: 6.439393vw;
+    background-color: black;
+    margin:auto
+    
+
+}
+
+.addition-white-6{
+    float: left;
+    height: 42.857143vh;
+    width: 2.060606vw;
+    background-color: white;
+    margin:auto
+}
+
+.addition-black-7{
+    float: left;
+    height: 42.857143vh;
+    width: 6.439393vw;
+    background-color: black;
+    margin:auto
+    
+
+}
+
+.addition-white-7{
+    float: left;
+    height: 42.857143vh;
+    width: 2.060606vw;
+    background-color: white;
+    margin:auto
+}
+
+.addition-black-8{
+    float: left;
+    height: 42.857143vh;
+    width: 6.439393vw;
+    background-color: black;
+    margin:auto
+    
+
+}
+
+.addition-white-8{
+    float: left;
+    height: 42.857143vh;
+    width: 2.060606vw;
+    background-color: white;
+    margin:auto
+}
+
+.addition-black-9{
+    float: left;
+    height: 42.857143vh;
+    width: 6.439393vw;
+    background-color: black;
+    margin:auto
+    
+
+}
+
+.addition-white-9{
+    float: left;
+    height: 42.857143vh;
+    width: 2.060606vw;
+    background-color: white;
+    margin:auto
+}
+
+.addition-black-10{
+    float: left;
+    height: 42.857143vh;
+    width: 6.439393vw;
+    background-color: black;
+    margin:auto
+    
+
+}
+
+.addition-white-10{
+    float: left;
+    height: 42.857143vh;
+    width: 2.060606vw;
+    background-color: white;
+    margin:auto
+}
+
+.addition-black-11{
+    float: left;
+    height: 42.857143vh;
+    width: 6.439393vw;
+    background-color: black;
+    margin:auto
+    
+
+}
+
+.addition-white-11{
+    float: left;
+    height: 42.857143vh;
+    width: 2.060606vw;
+    background-color: white;
+    margin:auto
+}
+
+.addition-black-12{
+    float: left;
+    height: 42.857143vh;
+    width: 6.439393vw;
+    background-color: black;
+    margin:auto
+    
+
+}
+
+.line-interaction-container{
+    display:flex;
+    background-color: #F5F5F5;
+    width:100%;
+    height:100%; 
+}
+
+.subtraction-1-box{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 14.285714vh;
+    width: 14.285714vw;
+    background-color: orange;
+}
+
+.line-interaction-board-2{
+    display: flex;
+    height: 71.428571vh;
+    width: 71.428571vw;
+    background-color: blue;
+    margin: auto;
+}
+
+.subtraction-1-board{
+    display: flex;
+    height: 42.857143vh;
+    width: 42.857143vw;
+    background-color: transparent;
+    margin: auto;
+    transform: rotate(30deg);
+}
+
+.subtraction-black-1{
+    float: left;
+    height: 42.857143vh;
+    width: 6.439393vw;
+    background-color: transparent;
+    margin:auto
+}
+
+.subtraction-white-1{
+    float: left;
+    height: 42.857143vh;
+    width: 2.060606vw;
+    background-color: white;
+    margin:auto
+}
+
+.subtraction-black-2{
+    float: left;
+    height: 42.857143vh;
+    width: 6.439393vw;
+    background-color: transparent;
+    margin:auto
+}
+
+.subtraction-white-2{
+    float: left;
+    height: 42.857143vh;
+    width: 2.060606vw;
+    background-color: white;
+    margin:auto
+}
+
+.subtraction-black-3{
+    float: left;
+    height: 42.857143vh;
+    width: 6.439393vw;
+    background-color: transparent;
+    margin:auto
+}
+
+.subtraction-white-3{
+    float: left;
+    height: 42.857143vh;
+    width: 2.060606vw;
+    background-color: white;
+    margin:auto
+}
+
+.subtraction-black-4{
+    float: left;
+    height: 42.857143vh;
+    width: 6.439393vw;
+    background-color: transparent;
+    margin:auto
+}
+
+.subtraction-white-4{
+    float: left;
+    height: 42.857143vh;
+    width: 2.060606vw;
+    background-color: white;
+    margin:auto
+}
+
+.subtraction-black-5{
+    float: left;
+    height: 42.857143vh;
+    width: 6.439393vw;
+    background-color: transparent;
+    margin:auto
+}
+
+.subtraction-white-5{
+    float: left;
+    height: 42.857143vh;
+    width: 2.060606vw;
+    background-color: white;
+    margin:auto
+}
+
+.subtraction-black-6{
+    float: left;
+    height: 42.857143vh;
+    width: 6.439393vw;
+    background-color: transparent;
+    margin:auto
+}
+
+.subtraction-white-6{
+    float: left;
+    height: 42.857143vh;
+    width: 2.060606vw;
+    background-color: white;
+    margin:auto
+}
+
+.subtraction-black-7{
+    float: left;
+    height: 42.857143vh;
+    width: 6.439393vw;
+    background-color: transparent;
+    margin:auto
+}
+
+.subtraction-white-7{
+    float: left;
+    height: 42.857143vh;
+    width: 2.060606vw;
+    background-color: white;
+    margin:auto
+}
+
+.subtraction-black-8{
+    float: left;
+    height: 42.857143vh;
+    width: 6.439393vw;
+    background-color: transparent;
+    margin:auto
+}
+
+.subtraction-white-8{
+    float: left;
+    height: 42.857143vh;
+    width: 2.060606vw;
+    background-color: white;
+    margin:auto
+}
+
+.subtraction-black-9{
+    float: left;
+    height: 42.857143vh;
+    width: 6.439393vw;
+    background-color: transparent;
+    margin:auto
+}
+
+.subtraction-white-9{
+    float: left;
+    height: 42.857143vh;
+    width: 2.060606vw;
+    background-color: white;
+    margin:auto
+}
+
+.subtraction-black-10{
+    float: left;
+    height: 42.857143vh;
+    width: 6.439393vw;
+    background-color: transparent;
+    margin:auto
+}
+
+.subtraction-white-10{
+    float: left;
+    height: 42.857143vh;
+    width: 2.060606vw;
+    background-color: white;
+    margin:auto
+}
+
+.subtraction-black-11{
+    float: left;
+    height: 42.857143vh;
+    width: 6.439393vw;
+    background-color: transparent;
+    margin:auto
+}
+
+.subtraction-white-11{
+    float: left;
+    height: 42.857143vh;
+    width: 2.060606vw;
+    background-color: white;
+    margin:auto
+}
+
+.subtraction-black-12{
+    float: left;
+    height: 42.857143vh;
+    width: 6.439393vw;
+    background-color: transparent;
+    margin:auto
+}
+
+.addition-1-svg{
+    display: flex;
+    margin: auto;
+    padding-top: 8rem;
+    justify-content: center;
+    width: 80vw;
+    height: 80vh;
+}
+
